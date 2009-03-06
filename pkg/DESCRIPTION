@@ -1,0 +1,14 @@
+Package: QuantLab
+Type: Package
+Title: Quantitative Laboratory
+Version: 1.3
+Date: 2008-06-08
+Author: Helmut Strasser
+Maintainer: Helmut Strasser <Helmut.Strasser@gmx.com>
+Depends: R (>= 2.6.1), its, abind, Hmisc
+Description: QuantLab is a package which provides tools for
+ quantitative research in mathematical finance.
+ The focus is on tools for simulation studies of
+ stochastic models.
+License: GPL
+Packaged: Sun Jun  8 14:42:02 2008; Helmut
